@@ -6,6 +6,10 @@ This project is a detailed sales and customer analysis for **Blinkit**, created 
 
 To analyze Blinkit's sales performance, customer satisfaction, and inventory distribution to uncover valuable insights and optimization opportunities.
 
+## 📊 Dashboard Preview
+![dashboard pic](https://github.com/user-attachments/assets/981bdc36-0b31-4bea-b6f0-5dc14604d602)
+
+
 ## 🧩 KPIs Tracked
 
 - 💰 Total Sales  
