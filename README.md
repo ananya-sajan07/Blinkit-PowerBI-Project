@@ -39,6 +39,5 @@ To analyze Blinkit's sales performance, customer satisfaction, and inventory dis
 - `dashboard pic.png` – Preview of the dashboard
 
 ## 🔁 How to Reproduce
-View the Power BI Dashboard
 Use Power BI Desktop to open the .pbix file located in the Dashboard/ folder and interact with the filters.
 
